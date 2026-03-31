@@ -55,6 +55,6 @@ An interactive script that generates a personalized manifesto based on your inpu
 ```
 
 ## Author
-- **Author:** Akshat a Khare
+- **Author:** Akshat Singh
 - **Course:** Open Source Software
 - **Project:** The Open Source Audit
