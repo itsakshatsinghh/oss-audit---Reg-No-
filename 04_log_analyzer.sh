@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script Name: 04_log_analyzer.sh
-# Author: Partha Khare
+# Author: Akshat Singh
 # Course: Open Source Software
 # Description: Processes VLC log files to identify specific keywords or errors.
 
