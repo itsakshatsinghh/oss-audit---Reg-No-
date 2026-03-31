@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script Name: 03_dir_audit.sh
-# Author: Partha Khare
+# Author: Akshat Singh
 # Course: Open Source Software
 # Description: Audits critical directories relevant to VLC and the system.
 
