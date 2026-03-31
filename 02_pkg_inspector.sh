@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script Name: 02_pkg_inspector.sh
-# Author: Partha Khare
+# Author: Akshat Singh
 # Course: Open Source Software
 # Description: Checks for VLC installation and highlights FOSS philosophy.
 
