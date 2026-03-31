@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script Name: 01_sys_identity.sh
-# Author: Partha Khare
+# Author: Akshat Singh
 # Course: Open Source Software
 # Description: Displays system identity and VLC audit context.
 
