@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script Name: 05_manifesto_gen.sh
-# Author: Partha Khare
+# Author: Akshat Singh
 # Course: Open Source Software
 # Description: Interactively generates an Open Source Multimedia Manifesto.
 
